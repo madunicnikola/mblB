@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530878525802",
+    "project_id": "matematickakonferencija",
+    "storage_bucket": "matematickakonferencija.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530878525802:android:d69e620c105c56f7847513",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKqOPmr8bBv2oBsgxW0NvXXf79e3xaaSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530878525802:android:0255027a1448147b847513",
+        "android_client_info": {
+          "package_name": "com.example.main_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKqOPmr8bBv2oBsgxW0NvXXf79e3xaaSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

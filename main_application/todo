@@ -1,0 +1,24 @@
+// TODO LIST
+- Change UI color for input textfields in logging screen to a complementary shade
+- Add functionality to the Forgot your password option in the logging screen
++ Adapt the splash loader screen
+- Change all text font to Montserrat/Open Sans
+- Add dialog box for TOS and Forgot your password option
+- Dodati ime korisnika koje ce unijeti u alert dialog pri ulasku u aplikaciju
++ Create the main, home page with downbar
+- Add sponsors to login screen with "Powered by" text
+- Create README and TOS for the application
+- Adapt the application name and logo icon
+- Test on IOS Emulator
+- Integrate QR functionality
+- Push to GitHub repo
+- Add copyright 
+
+// FIXME LIST
+- Fix firebase analytics to the app
+- Fix debug logger for flutter app
+
+// BUG LIST
++ Debug and fix the RenderFlex bug in the emulator login screen
+
+

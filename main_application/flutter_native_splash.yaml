@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "#4B0082"
+  image: lib/mainImages/vpLogo.png
+  branding: lib/mainImages/vpLogo.png
+  color_dark: "#4B0082"
+  image_dark: lib/mainImages/vpLogo.png
+  branding_dark: lib/mainImages/vpLogo.png
+  android_12:
+    image: lib/mainImages/vpLogo.png
+    icon_background_color: "#ffffff"
+    image_dark: lib/mainImages/vpLogo.png
+    icon_background_color_dark: "#121212"
+  web: false
